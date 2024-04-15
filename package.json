@@ -1,5 +1,5 @@
 {
-  "name": "goranlisak/facebook-login",
+  "name": "facebook-login",
   "version": "5.0.3",
   "description": "A native plugin for Facebook Login",
   "engines": {
